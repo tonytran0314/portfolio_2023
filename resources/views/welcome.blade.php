@@ -13,6 +13,7 @@
     <script defer src="./js/app.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
     <title>Trần Gia Huy Portfolio</title>
+    <link rel="icon" href="./images/portfolio_icon.ico">
 </head>
 <body>
     <div class="container-fluid">
