@@ -88,6 +88,18 @@ body {
   font-size: 20px;
 }
 
+#project_url a {
+  transition-duration: 0.5s;
+}
+#project_url a:hover {
+  background: #198754;
+  color: #FFFFFF !important;
+}
+
+#video {
+  position: relative;
+}
+
 /* The actual timeline (the vertical ruler) */
 .main-timeline {
   position: relative;

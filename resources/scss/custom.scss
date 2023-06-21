@@ -7,22 +7,22 @@
 }
 
 a {
-    color: #ffffff;
-    text-decoration: none;
+  color: #ffffff;
+  text-decoration: none;
 }
 
 i {
-    font-size: 25px;
+  font-size: 25px;
 }
 
 body {
-    background-color: #121212;
-    color: #ffffff;
-    font-weight: 400;
+  background-color: #121212;
+  color: #ffffff;
+  font-weight: 400;
 }
 
 #name {
-    font-size: 32px;
+  font-size: 32px;
 }
 
 // *********************************************************** HEADER *********************************************************** //
@@ -108,6 +108,23 @@ body {
 
 
 // ********************* Project ********************* //
+
+#project_url {
+  a {
+    transition-duration: .5s;
+
+    &:hover {
+      background: #198754;
+      color: #FFFFFF !important;
+    }
+  }
+}
+
+#video {
+  position: relative;
+}
+
+
 /* The actual timeline (the vertical ruler) */
 .main-timeline {
     position: relative;

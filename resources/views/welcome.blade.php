@@ -48,7 +48,7 @@
                     <p>Tôi là <span id="name">Trần Gia Huy</span></p>
                     <p>Một lập trình viên back-end luôn hướng đến những công nghệ lập trình mới, 
                         tinh thần trách nhiệm 
-                        và có sự chuẩn bị cho những kế hoạch sắp tới 
+                        và sử dụng được Tiếng Anh trong công việc và đời sống hàng ngày 
                         là những điều khiến tôi tự hào về bản thân.</p>
                     <p>Dù là sinh viên mới tốt nghiệp ngành công nghệ thông tin, nhưng trong thời gian còn học ở trường tôi đã tự tìm tòi và học hỏi thêm những kiến thức về lập trình web, hiện nay tôi đã có cho mình một dự án cá nhân: trang thương mại điện tử.</p>
                     <div class="pt-4 pb-3">
@@ -67,7 +67,7 @@
                     <h2 class="text-center">Kiến thức lập trình</h2>
                     <ul class="list-group list-group-flush text-align:right">
                         <li class="list-group-item list-group-item-dark">PHP (Laravel)</li>
-                        <li class="list-group-item list-group-item-dark">MySQL</li>
+                        <li class="list-group-item list-group-item-dark">SQL</li>
                         <li class="list-group-item list-group-item-dark">Lập trình hướng đối tượng OOP</li>
                         <li class="list-group-item list-group-item-dark">Mô hình MVC</li>
                         <li class="list-group-item list-group-item-dark">Bảo mật hệ thống</li>
@@ -86,11 +86,14 @@
                 <h1 class="mt-4 p-4">Dự án cá nhân</h1>
                 <div id="project_name" class="col-md-12 mt-4 mb-4 text-center p-4">
                     <h2>TRANG THƯƠNG MẠI ĐIỆN TỬ SỬ DỤNG LARAVEL</h2>
-                    <h3><a href="https://www.dientuhuylong.com" target="_blank">www.dientuhuylong.com</a></h3>
+                    <div id="project_url" class="m-4">
+                      <h3><a href="https://www.dientuhuylong.com" class="border border-4 border-success rounded-3 p-2 text-success" target="_blank">www.dientuhuylong.com</a></h3>
+                    </div>
                 </div>
-                <div id="video" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center mb-4">
+                <div id="video" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center mb-4 ">
                     <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Ato-NPfyZCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
-                    <iframe id="iframe_video" width="1008" height="567" src="https://www.youtube.com/embed/Ato-NPfyZCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    <!-- <iframe id="iframe_video" width="1008" height="567" src="https://www.youtube.com/embed/Ato-NPfyZCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+                    <img src="./images/project_thumbnail.PNG" class="img-fluid img-thumbnail" alt="project_thumbnail">
                 </div>
                 <div id="timeline" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 mt-4 m-auto">
                     <section>
@@ -101,7 +104,7 @@
                               <div class="card">
                                 <div class="card-body p-4">
                                   <h3>Thanh toán và hoàn tiền bằng VNPay</h3>
-                                  <p class="mb-0">03:12</p>
+                                  <!-- <p class="mb-0">03:12</p> -->
                                 </div>
                               </div>
                             </div>
@@ -109,7 +112,7 @@
                               <div class="card">
                                 <div class="card-body p-4">
                                   <h3>Gửi email cho khách hàng sau khi đặt hàng và xác nhận tài khoản bằng email</h3>
-                                  <p class="mb-0">04:25</p>
+                                  <!-- <p class="mb-0">04:25</p> -->
                                 </div>
                               </div>
                             </div>
@@ -117,7 +120,7 @@
                               <div class="card">
                                 <div class="card-body p-4">
                                   <h3>Tính năng theo dõi đơn hàng</h3>
-                                  <p class="mb-0">06:10</p>
+                                  <!-- <p class="mb-0">06:10</p> -->
                                 </div>
                               </div>
                             </div>
@@ -125,7 +128,7 @@
                               <div class="card">
                                 <div class="card-body p-4">
                                   <h3>Tính năng giỏ hàng</h3>
-                                  <p class="mb-0">7:53</p>
+                                  <!-- <p class="mb-0">7:53</p> -->
                                 </div>
                               </div>
                             </div>
