@@ -67,6 +67,7 @@
                     <h2 class="text-center">Kiến thức lập trình</h2>
                     <ul class="list-group list-group-flush text-align:right">
                         <li class="list-group-item list-group-item-dark">PHP (Laravel)</li>
+                        <li class="list-group-item list-group-item-dark">Kiến thức về API</li>
                         <li class="list-group-item list-group-item-dark">SQL</li>
                         <li class="list-group-item list-group-item-dark">Lập trình hướng đối tượng OOP</li>
                         <li class="list-group-item list-group-item-dark">Mô hình MVC</li>
